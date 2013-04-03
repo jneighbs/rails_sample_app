@@ -1,3 +1,2 @@
 == My Sample Rails Application
-//learn how to format these readmes nicely - rdoc vs md
-//
+//learn how to format these readmes nicely - rdoc vs md//
